@@ -28,3 +28,5 @@ dream_project/
 ├── label_encoder.pkl               # LabelEncoder for dream labels
 ├── predicted_dream.txt             # Stores latest predicted dream
 ├── dream_venv/                     # Python virtual environment
+
+📺 [Watch Demo on YouTube](https://youtu.be/ZvQsrTi5ijg)
